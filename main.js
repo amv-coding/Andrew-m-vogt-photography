@@ -15,5 +15,4 @@ Array.from(forms)
   })
 })()
 
-})
-});
+
