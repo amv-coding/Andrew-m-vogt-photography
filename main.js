@@ -22,3 +22,4 @@ error: function (jqXHR, textStatus, errorThrown)
 {
 $('#status').text(jqXHR);
 }
+});
