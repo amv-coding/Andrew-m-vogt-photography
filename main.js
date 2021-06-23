@@ -13,6 +13,6 @@ Array.from(forms)
       form.classList.add('was-validated')
     }, false)
   })
-})()
+})();
 
 
